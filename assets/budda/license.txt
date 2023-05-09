@@ -1,0 +1,11 @@
+Model Information:
+* title:	Medytujący Budda
+* source:	https://sketchfab.com/3d-models/medytujacy-budda-367e3c3ba6514624acce5dd96fc83d4e
+* author:	Fundacja Collect (https://sketchfab.com/wirtualnemuzeawroclawia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Medytujący Budda" (https://sketchfab.com/3d-models/medytujacy-budda-367e3c3ba6514624acce5dd96fc83d4e) by Fundacja Collect (https://sketchfab.com/wirtualnemuzeawroclawia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
