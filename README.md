@@ -7,12 +7,12 @@
 
 
 
-# open terminal
+## open terminal
 
-# install npm
+## install npm
 npm install
 
-# run project
+## run project
 npm run dev
 
 ```
